@@ -1,7 +1,7 @@
 # Text-Editor-PWA
 
 ## Description
-This module homework require us to create a simple text editor app that works both offline and online.
+This module homework require us to create a simple text editor app that works both offline and online. 
 
 ## User Story
 AS A developer
